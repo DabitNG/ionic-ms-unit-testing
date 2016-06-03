@@ -6,7 +6,7 @@ Each folder contains the gulpfile and test files used to check controllers and s
 
 Any contribution is welcome.
 
-### How to reply this tests
+### How to reply these tests
 1. Clone [ionic-ms-starter](https://github.com/DabitNG/ionic-ms-starter)
 2. Install module
 3. `npm install karma karma-jasmine karma-phantomjs-launcher --save-dev`
