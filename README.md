@@ -6,7 +6,7 @@ Each folder contains the gulpfile and test files used to check controllers and s
 
 Any contribution is welcome.
 
-### How to reply this test
+### How to reply this tests
 1. `npm install karma karma-jasmine karma-phantomjs-launcher --save-dev`
 2. `npm install -g karma-cli`
 3. `bower install angular-mocks --save-dev`
