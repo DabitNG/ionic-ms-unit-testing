@@ -7,14 +7,16 @@ Each folder contains the gulpfile and test files used to check controllers and s
 Any contribution is welcome.
 
 ### How to reply this tests
-1. `npm install karma karma-jasmine karma-phantomjs-launcher --save-dev`
-2. `npm install -g karma-cli`
-3. `bower install angular-mocks --save-dev`
-4. Run `gulp test` to test module
+1. Clone [ionic-ms-starter](https://github.com/DabitNG/ionic-ms-starter)
+2. Install module
+3. `npm install karma karma-jasmine karma-phantomjs-launcher --save-dev`
+4. `npm install -g karma-cli`
+5. `bower install angular-mocks --save-dev`
+6. Run `gulp test` to test module
 
 ### Test results
 
-##### FeedReader
+##### [FeedReader](https://github.com/DabitNG/ionic-ms-feed-reader-module)
 
 ```
 [18:37:31] Starting 'test'...
@@ -28,7 +30,7 @@ PhantomJS 2.1.1: Executed 0 of 2 SUCCESS (0 secs / 0 secs)
 [18:37:32] Finished 'test' after 1.68 s
 ```
 
-##### LocalStorage
+##### [LocalStorage](https://github.com/DabitNG/ionic-ms-localstorage-module)
 
 ```
 [17:45:18] Starting 'test'...
